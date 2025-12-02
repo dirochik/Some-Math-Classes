@@ -8,3 +8,5 @@ Math classes, made in pure C#.
 - **MathA**  
   Some math functions and constants
 
+> **P.S.** These classes are located in the `.src` folder.
+
